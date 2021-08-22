@@ -1,3 +1,4 @@
 merhaba 
 hello
 hellohi
+deneme remote
