@@ -2,3 +2,4 @@ merhaba
 hello
 hellohi
 deneme remote
+cakisti mi
